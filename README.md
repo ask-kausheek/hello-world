@@ -1,2 +1,5 @@
 # hello-world
-basic start of github
+Hi humans!,
+
+This is ask , 
+dread it,run from it, destiny arrives all the same
